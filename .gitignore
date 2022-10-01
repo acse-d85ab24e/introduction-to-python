@@ -1,0 +1,4 @@
+*ipynb_checkpoints/
+*pybryt_cache/
+*__pycache__/
+*ok_storage.db
